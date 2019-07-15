@@ -83,6 +83,7 @@
     <div>
       <button @click="to_blogs">显示博客页面</button>
     </div>
+    <div>第一次修改</div>
   </div>
 </template>
 
